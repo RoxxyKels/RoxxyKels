@@ -1,4 +1,3 @@
-
 name: Generate Contribution Calendar
 
 on:
@@ -23,8 +22,11 @@ jobs:
           github_user_name: RoxxyKels
           output_dir: .
 
+      - name: Show generated files
+        run: ls -la *.svg
+
       - name: Save updated calendar
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Update contribution calendar"
-          file_pattern: "*-contribution-animation*.svg contribution-animation*.svg github-contribution-animation*.svg"
+          file_pattern: "*-contribution-animation*.svg"
