@@ -45,4 +45,7 @@ I'm always interested in learning, sharing ideas, and connecting with people in 
 
 Thanks for stopping by my profile!
 
-[My Developer Banner](github_profile_banner.gif)
+
+<p align="center">
+  <img src="./github_profile_banner.gif" alt="GitHub Profile Banner" width="100%">
+</p>
