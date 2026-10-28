@@ -53,5 +53,12 @@ Thanks for stopping by my profile!
 ## 📈 My GitHub Contributions
 <h2>📊 My GitHub Activity</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoxxyKels&theme=react-dark&hide_border=true&area=true" alt="RoxxyKels GitHub Activity Graph" width="100%" />
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./github-contribution-animation-dark.svg">
+    <img alt="Contribution animation" src="./github-contribution-animation.svg" width="100%">
+  </picture>
+</p>
 
