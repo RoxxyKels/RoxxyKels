@@ -52,10 +52,5 @@ Thanks for stopping by my profile!
 
 ## 📈 My GitHub Contributions
 
-<p align="center">
-  <img
-    src="https://green-wall.leoku.dev/api/og/share/RoxxyKels"
-    alt="RoxxyKels GitHub contribution graph"
-    width="100%"
-  />
-</p>
+
+![My GitHub Contributions](https://green-wall.leoku.dev/api/og/share/RoxxyKels)
