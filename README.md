@@ -53,4 +53,4 @@ Thanks for stopping by my profile!
 ## 📈 My GitHub Contributions
 
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoxxyKels&bg_color=1a0b2e&color=f4a6b8&line=ff6f9c&point=ffd1a9&area=true&area_color=ff6f9c&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoxxyKels)](https://github.com/ashutosh00710/github-readme-activity-graph)
