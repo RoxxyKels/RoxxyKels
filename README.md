@@ -53,7 +53,4 @@ Thanks for stopping by my profile!
 ## 📈 My GitHub Contributions
 
 
-<img
-  src="https://green-wall.leoku.dev/api/og/share/RoxxyKels"
-  alt="My contributions"
-/>
+![](https://green-wall.leoku.dev/api/og/share/RoxxyKels)
