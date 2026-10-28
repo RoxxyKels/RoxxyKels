@@ -50,7 +50,6 @@ Thanks for stopping by my profile!
   <img src="./github_profile_banner.gif" alt="GitHub Profile Banner" width="100%">
 </p>
 
-## 📈 My GitHub Contributions
 <h2>📊 My GitHub Activity</h2>
 
 <h2 align="center">Contribution Activity</h2>
