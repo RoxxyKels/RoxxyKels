@@ -1,0 +1,30 @@
+
+name: Generate Contribution Calendar
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution calendar
+        uses: Man0dya/Readme-Contribution-Graph-Generator@main
+        with:
+          github_user_name: RoxxyKels
+          output_dir: .
+
+      - name: Save updated calendar
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update contribution calendar"
+          file_pattern: "*-contribution-animation*.svg contribution-animation*.svg github-contribution-animation*.svg"
