@@ -49,3 +49,19 @@ Thanks for stopping by my profile!
 <p align="center">
   <img src="./github_profile_banner.gif" alt="GitHub Profile Banner" width="100%">
 </p>
+
+## 📈 My GitHub Contributions
+
+<p align="center">
+  <img
+    src="https://green-wall.leoku.dev/api/og/share/RoxxyKels"
+    alt="RoxxyKels GitHub contribution graph"
+    width="100%"
+  />
+</p>
+
+---
+
+<p align="center">
+  <img src="./github_profile_banner.gif" alt="GitHub Profile Banner" width="100%" />
+</p>
