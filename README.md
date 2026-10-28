@@ -51,6 +51,7 @@ Thanks for stopping by my profile!
 </p>
 
 ## 📈 My GitHub Contributions
+<h2>📊 My GitHub Activity</h2>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RoxxyKels&theme=react-dark&hide_border=true&area=true" alt="RoxxyKels GitHub Activity Graph" width="100%" />
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RoxxyKels)](https://github.com/RoxxyKels/github-readme-activity-graph)
